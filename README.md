@@ -73,8 +73,6 @@ cd seu-repositorio
 
 ---
 
----
-
 ## 📣 Inspiração
 
 Projeto criado com foco em evolução no front-end e prática de animações com CSS.
